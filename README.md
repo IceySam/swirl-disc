@@ -1,2 +1,3 @@
 # swirl-disc
-processes for fintech ai model pipeline
+Processes for fintech AI model pipeline
+
