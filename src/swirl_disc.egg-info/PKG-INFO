@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: swirl-disc
-Version: 0.0.1
+Version: 0.0.2
 Summary: Feature extraction, Modelling build pipeline
 Author-email: Chukwuemeka Okeke <okekesamuel7@gmail.com>
 Project-URL: Homepage, https://github.com/IceySam/swirl-disc
@@ -11,6 +11,10 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: nltk
+Requires-Dist: scikit-learn
 
 # swirl-disc
 Processes for fintech AI model pipeline
