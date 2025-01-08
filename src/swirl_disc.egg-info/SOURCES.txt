@@ -10,4 +10,5 @@ src/swirl-disc/textprocess.py
 src/swirl_disc.egg-info/PKG-INFO
 src/swirl_disc.egg-info/SOURCES.txt
 src/swirl_disc.egg-info/dependency_links.txt
+src/swirl_disc.egg-info/requires.txt
 src/swirl_disc.egg-info/top_level.txt
