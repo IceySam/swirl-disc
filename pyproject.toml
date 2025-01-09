@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "swirl-disc"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Chukwuemeka Okeke", email="okekesamuel7@gmail.com" },
 ]
@@ -22,6 +22,9 @@ dependencies = [
     "nltk",
     "scikit-learn",
 ]
+
+[tool.setuptools.packages.find]
+where = ["src"]
 
 [project.urls]
 Homepage = "https://github.com/IceySam/swirl-disc"
