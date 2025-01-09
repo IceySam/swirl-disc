@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "swirl-disc"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Chukwuemeka Okeke", email="okekesamuel7@gmail.com" },
 ]
