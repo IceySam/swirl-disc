@@ -23,6 +23,9 @@ dependencies = [
     "scikit-learn",
 ]
 
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [project.urls]
 Homepage = "https://github.com/IceySam/swirl-disc"
 Issues = "https://github.com/IceySam/swirl-disc/issues"
